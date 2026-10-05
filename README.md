@@ -23,7 +23,7 @@ Artigo
 
 O artigo apresenta a fundamentação e a análise desenvolvida sobre produtividade, Inteligência Artificial e desenvolvimento de software.
 
-📄 [Acessar o artigo] https://github.com/rafafany/TRABALHO-DE-PRODUTIVIDADE-COM-IA/blob/main/artigo/Black%20and%20White%20Typographic%20Matcha%20Article%20Instagram%20Post%20(1).pdf
+📄 [Acessar o artigo](https://github.com/rafafany/TRABALHO-DE-PRODUTIVIDADE-COM-IA/blob/main/artigo/Black%20and%20White%20Typographic%20Matcha%20Article%20Instagram%20Post%20(1).pdf)
 Apresentação
 
 Os slides apresentam os principais pontos discutidos no trabalho e utilizados durante a apresentação.
