@@ -28,7 +28,7 @@ Apresentação
 
 Os slides apresentam os principais pontos discutidos no trabalho e utilizados durante a apresentação.
 
-📊 [Acessar a apresentação]. Https://github.com/rafafany/TRABALHO-DE-PRODUTIVIDADE-COM-IA/blob/main/apresenta%C3%A7%C3%A3o/Inserir%20um%20t%C3%ADtulo%20(1)_compressed%20(1).pdf
+📊 [Acessar a apresentação].(Https://github.com/rafafany/TRABALHO-DE-PRODUTIVIDADE-COM-IA/blob/main/apresenta%C3%A7%C3%A3o/Inserir%20um%20t%C3%ADtulo%20(1)_compressed%20(1).pdf)
 
 Principais temas
 
